@@ -2,6 +2,9 @@
 
 # UgandaEMR Template app
 
+![Landing page screenshot](./src/assets/images/screen.png)
+
 A starter template ESM for UgandaEMR inspired by https://github.com/openmrs/openmrs-esm-template-app.
 
-Use this repo as a template to spawn new frontend modules for UgandaEMR.
+You can use this repo as a template to spawn new frontend modules for UgandaEMR.
+
