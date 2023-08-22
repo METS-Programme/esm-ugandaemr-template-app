@@ -8,3 +8,7 @@ A starter template ESM for UgandaEMR inspired by https://github.com/openmrs/open
 
 You can use this repo as a template to spawn new frontend modules for UgandaEMR.
 
+The current setup works best for setting up polyrepos. To adapt the template for a monorepo setup, you'll need to make the following changes:
+
+- Add a `packages` directory inside of `src`.
+
